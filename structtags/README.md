@@ -6,10 +6,10 @@ If you'd like to read the original post for this repo, please visit:
 
 ## Getting and Running the example
 I mainly use macOS for my development environment, but any OS with Go installed should work. First checkout the code:  
-`git clone https://github.com/altf2o/blog-structtags.git`
+`git clone https://github.com/altf2o/blog.git`
 
 Change into the directory and run tidy to get any necessary packages:  
-`cd blog-structtags`  
+`cd blog/structtags`  
 `go mod tidy`
 
 Then run the example:  
